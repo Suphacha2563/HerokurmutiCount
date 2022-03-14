@@ -15,7 +15,7 @@ MarkupSafe==2.1.0
 mysql-connector-python==8.0.28
 mysqlclient==2.1.0
 numpy==1.21.5
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.5.64
 protobuf==3.19.4
 pyshine==0.0.9
 requests==2.27.1
